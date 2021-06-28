@@ -23,7 +23,10 @@ body{
     
 }
 
-
+.grid img{
+    border: 2px solid #000000;
+    border: 50px;
+}
 
 .origami{
     border-radius: 20px;
@@ -36,10 +39,7 @@ body{
     
     
 }
-.origami img{
+/*.origami img{
     border: 2px solid #000000;
     border: 50px;
-}
-.bodyimg:hover p{
-    opacity: 1;
-}
+}*/
